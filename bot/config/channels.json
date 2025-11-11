@@ -1,0 +1,11 @@
+{
+  "telegram": {
+    "api_token": "FAKE_TELEGRAM_TOKEN_12345"
+  },
+  "whatsapp": {
+    "api_key": "FAKE_WHATSAPP_KEY_67890"
+  },
+  "mattermost": {
+    "webhook_url": "https://mattermost.example.com/hooks/fake123"
+  }
+}
